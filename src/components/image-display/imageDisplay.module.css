@@ -1,0 +1,29 @@
+.wrapper {
+  max-width: 85%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  margin: auto;
+}
+
+.imageContainer {
+  margin: auto;
+  color: whitesmoke;
+  font-size: 18px;
+  font-weight: 600;
+  box-shadow: 0px 0px 6px 1px #0000003b;
+  border-radius: 10px;
+  overflow: hidden;
+  min-width: 200px;
+  max-width: 85%;
+}
+
+.alt {
+  padding-inline: 10px;
+}
+
+.image {
+  min-width: 200px;
+  max-width: 85%;
+}
